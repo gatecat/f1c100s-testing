@@ -1,1 +1,4 @@
 *.scr
+*.cpio
+*.gz
+*.img
